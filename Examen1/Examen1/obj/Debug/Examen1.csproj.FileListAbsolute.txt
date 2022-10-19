@@ -1,0 +1,8 @@
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\bin\Debug\Examen1.exe.config
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\bin\Debug\Examen1.exe
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\bin\Debug\Examen1.pdb
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\obj\Debug\Examen1.exe
+D:\UNIVERSIDAD\IIIQ\Progra 2\c#\Examen1\Examen1\obj\Debug\Examen1.pdb
